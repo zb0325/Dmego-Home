@@ -5,7 +5,7 @@
 
 ### 个人主页
 
->这是我的个人主页
+>网络转载，做备份-非原作者
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
@@ -24,7 +24,7 @@
 ![主页GIF](https://unpkg.com/dmego-home-page@latest/assets/img/home.gif)
 
 ### 注
-
+- 网络转载，做备份-非原作者
 - 访问地址：[个人主页](http://i.dmego.cn/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
